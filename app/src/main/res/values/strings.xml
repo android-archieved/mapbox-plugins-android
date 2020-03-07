@@ -21,6 +21,7 @@
   <string name="title_places_autocomplete_fragment">Places Autocomplete Fragment</string>
   <string name="title_offline_plugin">Create region</string>
   <string name="title_offline_regions">List regions</string>
+  <string name="title_offline_custom_notification">Custom notification</string>
   <string name="title_place_picker">Place picker</string>
   <string name="title_localization">Localization Plugin</string>
   <string name="title_offline_ui_components">Offline Ui Components</string>
@@ -44,6 +45,7 @@
   <string name="description_autocomplete_fragment">Launch the autocomplete fragment inside an activity</string>
   <string name="description_offline_plugin">Use a form to create an offline region.</string>
   <string name="description_offline_regions">List all offline regions.</string>
+  <string name="description_offline_custom_notification">Show a custom notification during download.</string>
   <string name="description_place_picker">Launch the place picker activity and receive result</string>
   <string name="description_localization">Automatically localize the map labels into the device\'s set language.</string>
   <string name="description_offline_ui_components">Shows off the UI components included in the offline plugin.</string>
